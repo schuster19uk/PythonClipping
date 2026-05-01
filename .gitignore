@@ -12,6 +12,8 @@ _game_marker_files/*.*
 json_data/programa_sample.*
 clips/*/*/*.mp4
 install.bat
+json_data/programa.json
+json_data/programa_sample.json
 
 # C extensions
 *.so
